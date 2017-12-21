@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+project:
+  name: "masqt.github.io"
+  tagline: "Open source at Masqt"
